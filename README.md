@@ -47,7 +47,7 @@ Issues and PRs welcome.
 
 ## Contact
 
-mail@fuckamazonbasics.com
+fuckamazonbasics@jgalluzzi.com
 
 ## License
 

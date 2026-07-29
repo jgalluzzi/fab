@@ -31,6 +31,6 @@ URL with a new effective date.
 
 ## Contact
 
-mail@fuckamazonbasics.com
+fuckamazonbasics@jgalluzzi.com
 
 _Last updated: July 28, 2026_
